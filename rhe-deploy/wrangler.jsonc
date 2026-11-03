@@ -1,0 +1,6 @@
+{
+  "name": "rabbit-hole-engine",
+  "main": "proxy.js",
+  "compatibility_date": "2025-01-01",
+  "assets": { "directory": "../rabbit-hole-engine/dist" }
+}
